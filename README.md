@@ -1,2 +1,3 @@
 # simple-tls-in-c
-Contains a header file for implementing tls over sockets in c. Can be used in HTTPS, all browsers support it. TLS 1.2 and TLS 1.3 Support
+This contains a simple tls implentation which only requires one #include directive.
+View the simple_https_server.c example for usage.
